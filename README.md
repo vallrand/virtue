@@ -1,5 +1,7 @@
 # Virtue
 
+[![github-pages Status](https://github.com/vallrand/virtue/workflows/github-pages/badge.svg)](https://github.com/vallrand/virtue/actions)
+
 First Person 3D Walking demo.
 
 [Demo](http://vallrand.github.io/virtue/index.html)
